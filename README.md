@@ -142,9 +142,9 @@ def playRounds(connection, difficulty, winning_score):
 connection.send(message.encode(FORMAT))
 ```
 
-## Client Component Detailed Description
+### Client Component Detailed Description
 
-### Functionality
+#### Functionality
 
 - Connecting to the Server: The client establishes a connection to the server using the specified host and port.
 
